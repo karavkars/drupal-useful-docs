@@ -1,0 +1,12 @@
+Useful contributed modules
+1	Classy paragraph - add classes to paragraph + to filter class use views entity reference view
+2	Field Formatter class - Adds class on fields in view mode
+3	Fields group - Add grouping around fields in display mode
+4	Menu extra items - Add extra fields in Drupal Menu
+5	Panels - gives flexibility to build complex displays
+6	Paragraph View mode - add view mode selection on paragraph while authoring content
+7	Style guide - displays styles used in theme
+8	Twigtweak - dump variable in twig file
+9	Vardumper - dump variable in php drupal.
+10	Views export data - Export views results to csv, xls, json, etc.
+11	Views Scheme - generate code to include custom table in drupal views

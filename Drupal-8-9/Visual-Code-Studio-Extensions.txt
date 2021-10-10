@@ -1,0 +1,9 @@
+Useful Visual Studio Extensions
+1	Auto rename tag - Renames HTML closing tag with opening
+2	Bracket pair colorizer - provides different colos for every brackets
+3	Css hint - Provides autocomplete Css
+4	Drupal snippets - Provides autocomplete for drupal code
+5	HTML Emmet - Provides autocomplete for HTML
+6	Live sass compiler - No need of node js to run sass
+7	Live Server - Useful for HTML devlopment
+8	PHP debug - helps to debug php code, need to configure php.ini as per instructions & set php.exe path to environment variables
